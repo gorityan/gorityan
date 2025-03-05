@@ -1,9 +1,9 @@
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=あなたのGitHub名&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=あなたのGitHub名&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=あなたのGitHub名&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=あなたのGitHub名&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=あなたのGitHub名&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorityan&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorityan&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gorityan&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorityan&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gorityan&theme=gruvbox&utcOffset=9)
 ## 🐍 Contribution Snake
 ![GitHub Snake](https://raw.githubusercontent.com/gorityan/gorityan/output/github-contribution-grid-snake.svg)
 <!---
