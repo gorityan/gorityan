@@ -4,6 +4,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gorityan&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorityan&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gorityan&theme=gruvbox&utcOffset=9)
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=gorityan&theme=gruvbox&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)
 ## 🐍 Contribution Snake
 ![GitHub Snake](https://raw.githubusercontent.com/gorityan/gorityan/output/github-contribution-grid-snake.svg)
 <!---
