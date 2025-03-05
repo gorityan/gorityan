@@ -19,20 +19,14 @@
 
 > "ゴリラのように考え、エンジニアのように実装する" - 私のモットーです
 
-## 💻 技術スタック
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ## 📊 GitHub統計
 
 ### Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorityan&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorityan&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorityan&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=あなたのGitHub名&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=あなたのGitHub名&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=あなたのGitHub名&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=あなたのGitHub名&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=あなたのGitHub名&theme=gruvbox&utcOffset=9)
 
 ### Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=gorityan&theme=nord&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)
