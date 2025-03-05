@@ -23,6 +23,10 @@
 ## 📊 GitHub統計
 
 ### Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gorityan&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gorityan&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gorityan&theme=nord_dark)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=あなたのGitHub名&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=あなたのGitHub名&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=あなたのGitHub名&theme=gruvbox)
