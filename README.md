@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="300" alt="Gorilla GIF">
-  <img src="https://media.giphy.com/media/3o85xKfO7gQxL4SxSE/giphy.gif" width="300" alt="Gorilla GIF">
 
 </p>
 
