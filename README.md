@@ -35,7 +35,7 @@
 
 
 ### Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=gorityan)
+<img src="https://github-profile-trophy.vercel.app/?username=gorityan&theme=darkhub" />
 
 ## 🐍 Contribution Snake
 ![GitHub Snake](https://raw.githubusercontent.com/gorityan/gorityan/output/github-contribution-grid-snake.svg)
