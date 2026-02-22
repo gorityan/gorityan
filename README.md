@@ -34,7 +34,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=あなたのGitHub名&theme=gruvbox&utcOffset=9)
 
 ### Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=gorityan&theme=nord&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=gorityan)
 
 ## 🐍 Contribution Snake
 ![GitHub Snake](https://raw.githubusercontent.com/gorityan/gorityan/output/github-contribution-grid-snake.svg)
